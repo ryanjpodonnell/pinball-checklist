@@ -1,4 +1,4 @@
-- [ ] Circus (1980)
 - [ ] Alive (1978)
-- [ ] Demolition Classic (1979)
 - [ ] Aspen (1979)
+- [ ] Circus (1980)
+- [ ] Demolition Classic (1979)

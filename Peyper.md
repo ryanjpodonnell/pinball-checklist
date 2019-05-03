@@ -1,3 +1,3 @@
-- [ ] Wolf Man (1987)
 - [ ] Nemesis (1986)
 - [ ] Odisea Paris Dakar (1987)
+- [ ] Wolf Man (1987)

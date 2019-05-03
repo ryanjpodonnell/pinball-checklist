@@ -1,0 +1,7 @@
+- [ ] Space Rider (1980)
+- [ ] Stellar Airship (1980)
+- [ ] Challenger (1981)
+- [ ] La Retata (1992)
+- [ ] Lady Death (1983)
+- [ ] Wild Schutz (1980)
+- [ ] Race Stars (1979)

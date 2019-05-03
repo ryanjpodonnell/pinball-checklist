@@ -1,0 +1,3 @@
+- [ ] Circa 1933 (1979)
+- [ ] Eros One (1979)
+- [ ] Roy Clark 'The' Entertainer (1977)

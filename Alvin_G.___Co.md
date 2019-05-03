@@ -1,0 +1,6 @@
+- [ ] A.G. Soccer-Ball (1991)
+- [ ] Mystery Castle (1993)
+- [ ] Pistol Poker (1993)
+- [ ] Punchy the Clown (1993)
+- [ ] Al's Garage Band goes on a World Tour (1992)
+- [ ] A.G. Football (1992)

@@ -1,0 +1,8 @@
+- [ ] Medieval Madness (Remake LE) (2015)
+- [ ] Medieval Madness (Remake) (2016)
+- [ ] Attack From Mars (Remake) (2017)
+- [ ] Attack From Mars (Remake LE) (2017)
+- [ ] Attack From Mars (Remake Special) (2017)
+- [ ] Monster Bash (Remake) (2018)
+- [ ] Monster Bash (Remake Special) (2018)
+- [ ] Monster Bash (Remake LE) (2018)

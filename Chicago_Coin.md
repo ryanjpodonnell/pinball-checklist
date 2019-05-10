@@ -1,3 +1,4 @@
+## Electro-mechanical
 - [ ] Action (1969)
 - [ ] Astronaut (1969)
 - [ ] Beatniks (1967)
@@ -52,5 +53,6 @@
 - [ ] Thing (1951)
 - [ ] Top Ten (1975)
 - [ ] Twinky (1967)
-- [ ] Vacation America (2003)
 - [ ] Whiz Kids (1952)
+## Solid State Electronic
+- [ ] Vacation America (2003)

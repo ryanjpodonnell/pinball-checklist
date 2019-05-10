@@ -1,3 +1,4 @@
+## Solid State Electronic
 - [ ] Challenger (1981)
 - [ ] La Retata (1992)
 - [ ] Lady Death (1983)

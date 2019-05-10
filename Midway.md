@@ -1,5 +1,7 @@
+## Electro-mechanical
 - [ ] Flying Turns (1964)
-- [ ] Galaxy Ranger (1978)
 - [ ] Race-Way (1963)
 - [ ] Rodeo (1964)
+## Solid State Electronic
+- [ ] Galaxy Ranger (1978)
 - [ ] Rotation VIII (1978)

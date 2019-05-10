@@ -1,3 +1,4 @@
+## Solid State Electronic
 - [ ] Boogie (1976)
 - [ ] Cosmic Princess (1979)
 - [ ] Disco '79 (1979)
@@ -8,9 +9,10 @@
 - [ ] Hoe Down (1978)
 - [ ] Rock On (1975)
 - [ ] Roy Clark Super Picker (1977)
-- [ ] Sea Hunt (1972)
-- [ ] Spooksville (1973)
 - [ ] Star Shooter (1979)
 - [ ] T.N.T. (1976)
 - [ ] Take Five (1978)
 - [ ] Thunderbolt (1977)
+## Electro-mechanical
+- [ ] Sea Hunt (1972)
+- [ ] Spooksville (1973)

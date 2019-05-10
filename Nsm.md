@@ -1,3 +1,4 @@
+## Solid State Electronic
 - [ ] Cosmic Flash (1985)
 - [ ] Hot Fire Birds (1985)
 - [ ] Tag-Team Pinball (1986)

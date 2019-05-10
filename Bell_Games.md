@@ -1,3 +1,4 @@
+## Solid State Electronic
 - [ ] Cobra (1987)
 - [ ] Cosmic Flash (1984)
 - [ ] Cosmodrome (1980)

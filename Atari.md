@@ -1,3 +1,4 @@
+## Solid State Electronic
 - [ ] 4X4 (1983)
 - [ ] Airborne Avenger (1977)
 - [ ] Atarians (1976)

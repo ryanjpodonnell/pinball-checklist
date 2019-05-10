@@ -2,39 +2,74 @@ require 'json'
 require 'httparty'
 
 API_TOKEN = ''
-BASE_URI = 'https://opdb.org/api'
 
 class OPDB
   include HTTParty
+  BASE_URI = 'https://opdb.org/api'
+
   base_uri BASE_URI
-end
 
-def get_resource(route, options)
-  OPDB.get(route, query: options)
-end
+  def self.persist_response(filename, response)
+    File.open(filename, 'w') do |f|
+      f.write(response)
+    end
+  end
 
-def persist_response(filename, response)
-  File.open(filename, 'w') do |f|
-    f.write(response)
+  def self.import_response(filename)
+    file = File.read(filename)
+    JSON.parse(file)
   end
 end
 
-def import_resource(filename)
-  file = File.read(filename)
-  JSON.parse(file)
-end
+class Pin
+  TYPE_MAPPING = {
+    'em' => 'Electro-mechanical',
+    'me' => 'Mechanical',
+    'ss' => 'Solid State Electronic',
+  }
 
-def manufacture_year(pin)
-  manufacture_date = Date.parse(pin['manufacture_date'])
-  manufacture_date.year
-end
+  def initialize(pin_response)
+    @pin_response = pin_response
+  end
 
-def formatted_title(pin)
-  "- [ ] #{pin['name']} (#{manufacture_year(pin)})"
-end
+  def name
+    @pin_response['name']
+  end
 
-def manufacturer_name(pin)
-  pin['manufacturer']['name']
+  def manufacture_year
+    Date.parse(@pin_response['manufacture_date']).year
+  end
+
+  def manufacturer_name
+    @pin_response['manufacturer']['name']
+  end
+
+  def type
+    type_key = @pin_response['type']
+    TYPE_MAPPING[type_key]
+  end
+
+  def md_formatted_title
+    "- [ ] #{name} (#{manufacture_year})"
+  end
+
+  def md_formatted_type
+    "## #{type}"
+  end
+
+  def valid?
+    is_machine && physical_machine
+  end
+
+  private
+
+  def is_machine
+    @pin_response['is_machine']
+  end
+
+  def physical_machine
+    @pin_response['physical_machine']
+  end
 end
 
 def filesafe_manufacturer_name(manufacturer_name)
@@ -44,24 +79,31 @@ end
 def pins_by_manufacturer
   pins_by_manufacturer = Hash.new { |h, k| h[k] = [] }
 
-  import_resource('export.json').each do |pin|
-    next unless pin['is_machine'] == true && pin['physical_machine'] == 1
-    pins_by_manufacturer[manufacturer_name(pin)] << formatted_title(pin)
+  OPDB.import_response('../export.json').each do |pin_response|
+    pin = Pin.new(pin_response)
+
+    next unless pin.valid?
+    pins_by_manufacturer[pin.manufacturer_name] << pin
   end
 
   pins_by_manufacturer
 end
 
-pins_by_manufacturer.each do |manufacturer_name, formatted_pin_titles|
-  filename = filesafe_manufacturer_name(manufacturer_name)
+# pins_by_manufacturer.each do |manufacturer_name, pins|
+#   filename = "#{filesafe_manufacturer_name(manufacturer_name)}.md"
 
-  File.open("pinballs/#{filename}.md",'w') do |f|
-    formatted_pin_titles.sort.each do |formatted_pin_title|
-      f.write(formatted_pin_title)
-      f.write("\n")
-    end
-  end
-end
+#   File.open(filename,'w') do |f|
+#     pins.group_by { |pin| pin.md_formatted_type }.each do |type, pins|
+#       f.write(type)
+#       f.write("\n")
 
-# response = get_resource('/export/groups', api_token: API_TOKEN)
-# persist_response('groups.json', response)
+#       pins.sort_by{ |pin| pin.name }.each do |pin|
+#         f.write(pin.md_formatted_title)
+#         f.write("\n")
+#       end
+#     end
+#   end
+# end
+
+# response = OPDB.get('/export/groups', query: { api_token: API_TOKEN })
+# OPDB.persist_response('../groups.json', response)

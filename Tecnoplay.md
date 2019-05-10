@@ -1,3 +1,4 @@
+## Solid State Electronic
 - [ ] Devil King (1987)
 - [ ] Hi Ball (1988)
 - [ ] Scramble (1987)

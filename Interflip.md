@@ -5,3 +5,5 @@
 ## Solid State Electronic
 - [ ] Alaska (1978)
 - [ ] Jalisco (1976)
+## Skribbl Custom Words
+Alaska,Cherokee,Dragon,Impact,Jalisco

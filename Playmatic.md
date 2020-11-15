@@ -51,3 +51,5 @@
 - [ ] Racers (1968)
 - [ ] Serenade (1969)
 - [ ] Speakeasy (1977)
+## Skribbl Custom Words
+Antar,Attack,Big Town,Black Fever,Black Flag,Caddie,Caravan,Carnival,Cerberus,Chance,Conquest 200,Ducks,Evil Fight,Fairy,Fandango,Fantasy,Fiesta,Flash Dragon,Geisha,Gunner,Harem,Hit Line,Joker,Jolly Ride,KZ-26,Last Lap,Mad Race,Magic,Megaaton,Nautilus,New World,Party,Play Time,Poker,Racers,Raid,Rio,Rock 2500,Serenade,Space Gambler,Spain 82,Speakeasy,Star Fire,The 30's,Trailer,UFO-X,Zira

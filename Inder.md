@@ -29,3 +29,5 @@
 - [ ] Mundial 90 (1990)
 - [ ] Skateboard (1980)
 - [ ] Topaz (1979)
+## Skribbl Custom Words
+250 cc,Atleta,Black Reed,Brave Team,Bushido,Canasta 86,Centaur,Corsario,Flip-VI,Hearts Gain,Hot & Cold,Keops,Lap By Lap,Lucky Smile,Metal Man,Miss Universo,Moon Light,Mundial 90,Running Horse,Seven Winner,Shamrock,Skateboard,Stripping Funny,Super Bowling,Topaz,Touch,Up Away,Yale

@@ -9,3 +9,5 @@
 - [ ] Saturn (1977)
 ## Solid State Electronic
 - [ ] Antares (1979)
+## Skribbl Custom Words
+Antares,Atlantis,Card Castle,Champion,Devil,Explorer,Lucky Man,Monte Carlo,Saturn

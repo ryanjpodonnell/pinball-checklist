@@ -8,3 +8,5 @@
 - [ ] Rey de Diamantes (1967)
 - [ ] Spin-a-Card (1969)
 - [ ] Torpedo (1976)
+## Skribbl Custom Words
+Comodin,Criterium 80,Fortune,Grand Slam,Icarus,King Game,Rey de Diamantes,Spin-a-Card,Torpedo

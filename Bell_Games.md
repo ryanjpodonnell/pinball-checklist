@@ -19,3 +19,5 @@
 - [ ] Tiger Rag (1984)
 - [ ] U-Boat 65 (1988)
 - [ ] World Defender (1985)
+## Skribbl Custom Words
+Cobra,Cosmic Flash,Cosmodrome,Dark Shadow,F1 Grand Prix,Fantasy,Fireball II,Flash Gordon,Frontier,Future Queen,New Wave,Pin Ball Pool,Pinball,Saturn 2,Skill Flight,Space Hawks,Super Bowl,Tiger Rag,U-Boat 65,World Defender

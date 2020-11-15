@@ -5,3 +5,5 @@
 - [ ] Olympic Games (1984)
 - [ ] Papillon (1984)
 - [ ] Valkyrie (1982)
+## Skribbl Custom Words
+Apocalypse Now,Evolution,Le King,Olympic Games,Papillon,Valkyrie

@@ -4,3 +4,5 @@
 - [ ] Rondeevoo (1948)
 - [ ] Wisconsin (1948)
 - [ ] Yuma Arizona (1950)
+## Skribbl Custom Words
+Babyface,Red Shoes,Rondeevoo,Wisconsin,Yuma Arizona

@@ -5,3 +5,5 @@
 - [ ] Miss World (1985)
 - [ ] Road Racer (1985)
 - [ ] Space Wars (1985)
+## Skribbl Custom Words
+Bloody China,Dark Rider,Fly High,Miss World,Road Racer,Space Wars

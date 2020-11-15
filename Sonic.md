@@ -8,3 +8,5 @@
 - [ ] Super Straight (1977)
 ## Solid State Electronic
 - [ ] Star Wars (1987)
+## Skribbl Custom Words
+Bird Man,Butterfly,Cherry Bell,Faces,Mars Trek,Star Wars,Star-Flite,Super Straight

@@ -26,3 +26,5 @@
 - [ ] Time Machine (1988)
 - [ ] Torpedo Alley (1988)
 - [ ] WWF Royal Rumble (1994)
+## Skribbl Custom Words
+Adventures of Rocky and Bullwinkle and Friends,Back to the Future,Batman,Checkpoint,Guns N' Roses,Hook,Jurassic Park,King Kong,Laser War,Last Action Hero,Lethal Weapon 3,Maverick,Michael Jordan,Monday Night Football,Phantom of the Opera,Playboy 35th Anniversary,Robocop,Secret Service,Star Trek,Star Wars,Tales from the Crypt,Teenage Mutant Ninja Turtles,The Simpsons,The Who's Tommy Pinball Wizard,Time Machine,Torpedo Alley,WWF Royal Rumble

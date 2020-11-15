@@ -6,3 +6,5 @@
 - [ ] Space Ship (1986)
 - [ ] Space Shuttle (1986)
 - [ ] White Force (1987)
+## Skribbl Custom Words
+Big Guns,Cirsa Sport 2000,Iron Balls,Mephisto,Space Ship,Space Shuttle,White Force

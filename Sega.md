@@ -37,3 +37,5 @@
 - [ ] Sapporo (1971)
 - [ ] Surfing (1976)
 - [ ] Winner (1971)
+## Skribbl Custom Words
+Ali Baba,Apollo 13,Arabian Night,Batman Forever,Baywatch,Big Kick,Big Together,Carnival,Cha Cha Cha,Crazy Clock,Explorer,Galaxy,Godzilla,Golden Cue,Goldeneye,Harley Davidson,Independence Day,Lost In Space,Mary Shelley's Frankenstein,Mikoshi,Miss Nessie,Monte Rosa,Nostalgia,Robin Hood,Rodeo,Sapporo,South Park,Space Jam,Star Wars Trilogy,Starship Troopers,Surfing,Temptation,The Lost World Jurassic Park,The X Files,Twister,Viper Night Drivin',Winner

@@ -15,3 +15,5 @@
 - [ ] Springtime (1952)
 - [ ] Stop and Go (1951)
 - [ ] Tri-Score (1951)
+## Skribbl Custom Words
+400,Canasta,Double Action,Flying Aces,Flying Saucers,Fun-Fair,Harvest Time,Hits and Runs,Jumpin' Jacks,Mercury,Rocket,Show Boat,South Pacific,Springtime,Stop and Go,Tri-Score

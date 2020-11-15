@@ -20,3 +20,5 @@
 - [ ] Star Trip (1979)
 - [ ] Super Nova (1982)
 - [ ] Vegas (1979)
+## Skribbl Custom Words
+Agents 777,Andromeda,Attila the Hun,Black Velvet,Camel Lights,Captain Hook,Chuck-A-Luck,Cyclopes,Family Fun!,Foxy Lady,Global Warfare,Lady Sharpshooter,Old Coney Island!,Pinball Lizard,Real,Rio,Sharp Shooter II,Sharpshooter,Star Trip,Super Nova,Vegas

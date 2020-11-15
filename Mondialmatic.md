@@ -7,3 +7,5 @@
 - [ ] Cleopatra (1979)
 - [ ] Lovers (1979)
 - [ ] Take A Card (1979)
+## Skribbl Custom Words
+Big Dryvers,Cleopatra,Jolly Joker,Lovers,Sisters,Take A Card,The Best Jump

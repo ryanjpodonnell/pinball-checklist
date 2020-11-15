@@ -7,3 +7,5 @@
 - [ ] Oasis (1950)
 - [ ] Playland! (1950)
 - [ ] Trigger (1951)
+## Skribbl Custom Words
+Banjo,Be-Bop,Electric Hockey,Jeanie,Judy,Oasis,Playland!,Trigger

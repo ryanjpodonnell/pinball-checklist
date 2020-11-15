@@ -5,3 +5,5 @@
 - [ ] Mystery Castle (1993)
 - [ ] Pistol Poker (1993)
 - [ ] Punchy the Clown (1993)
+## Skribbl Custom Words
+A.G. Football,A.G. Soccer-Ball,Al's Garage Band goes on a World Tour,Mystery Castle,Pistol Poker,Punchy the Clown

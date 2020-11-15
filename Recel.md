@@ -32,3 +32,5 @@
 - [ ] Poker Plus (1978)
 - [ ] Swashbuckler (1979)
 - [ ] The Flipper Game (1980)
+## Skribbl Custom Words
+Bang! Bang!,Black Magic,Cavalier,Check,Check Mate,Crazy Race,Criterium 2000,Criterium 75,Criterium 80,Don Quijote,Fair Fight,Formula I,Fortune,Icarus,Jake Mate,Lady Luck,Master Stroke,Mr. Doom,Mr. Evil,Poker Plus,Sea Scare,Space Race,Swashbuckler,The Fiery 30's,The Flipper Game,Top Racer,Top Speed,Torpedo!!,Twin-Gain,Underwater

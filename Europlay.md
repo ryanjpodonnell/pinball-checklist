@@ -10,3 +10,5 @@
 - [ ] Volèe (1977)
 ## Solid State Electronic
 - [ ] Sinbad Adventures (1979)
+## Skribbl Custom Words
+Card Whiz,El Dorado,Red Arrow,Sinbad Adventures,Sky Fly,Sky Star,Tanga,The Best Corsair,Tic & Toc,Volèe

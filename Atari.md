@@ -10,3 +10,5 @@
 - [ ] Space Riders (1978)
 - [ ] Superman (1979)
 - [ ] Time 2000 (1977)
+## Skribbl Custom Words
+4X4,Airborne Avenger,Atarians,Hercules,Middle Earth,Monza,Neutron Star,Road Runner,Space Riders,Superman,Time 2000

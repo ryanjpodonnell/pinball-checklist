@@ -16,3 +16,5 @@
 ## Electro-mechanical
 - [ ] Sea Hunt (1972)
 - [ ] Spooksville (1973)
+## Skribbl Custom Words
+Boogie,Cosmic Princess,Disco '79,Dyn O' Mite,Flame of Athens,Getaway,Hearts Spades,Hoe Down,Rock On,Roy Clark Super Picker,Sea Hunt,Spooksville,Star Shooter,T.N.T.,Take Five,Thunderbolt

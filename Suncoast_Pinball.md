@@ -1,4 +1,4 @@
 ## Solid State Electronic
-- [ ] Thunder Man (1987)
+- [ ] Cosmic Carnival (2019)
 ## Skribbl Custom Words
-Thunder Man
+Cosmic Carnival

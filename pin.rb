@@ -13,6 +13,10 @@ class Pin
     @pin_response['name']
   end
 
+  def skribbl_name
+    name.split('(')[0].strip
+  end
+
   def manufacture_year
     Date.parse(@pin_response['manufacture_date']).year
   end

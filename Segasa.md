@@ -23,3 +23,5 @@
 - [ ] Odin Deluxe (1985)
 - [ ] Pole Position (1986)
 - [ ] Storm (1979)
+## Skribbl Custom Words
+Astro-Flite,Baby Doll,Big Ben,Cannes,Casbah,Casino Royale,Dealer's Choice,Gamatron,Gulfstream,Hang-On,High Ace,Jai Alai,Joker's Wild,Lucky Ace,Monaco,Night Fever,Odin Deluxe,Pole Position,Prospector,Spanish Eyes,Storm,Travel Time,Triple Action

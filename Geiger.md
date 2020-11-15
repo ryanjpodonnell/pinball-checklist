@@ -6,3 +6,5 @@
 - [ ] Space Rider (1980)
 - [ ] Stellar Airship (1980)
 - [ ] Wild Schutz (1980)
+## Skribbl Custom Words
+Challenger,La Retata,Lady Death,Race Stars,Space Rider,Stellar Airship,Wild Schutz

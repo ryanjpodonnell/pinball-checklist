@@ -20,3 +20,5 @@
 - [ ] Toro (1963)
 - [ ] Twist (1962)
 - [ ] West Club (1967)
+## Skribbl Custom Words
+Beach Games,Bowling Flipper,Comics,Curling,Flower's Child,Hairy Singers,Happy Papeete,Hockey Girl,Joly Captain,Karting,Landing on Venus,Messalina,Playboy,Rally Girl,Saloon,Schuss,Sunday on Ice,The Three Musketeers,Toro,Twist,West Club

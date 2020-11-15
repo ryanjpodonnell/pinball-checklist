@@ -5,3 +5,5 @@
 - [ ] West Show (1976)
 ## Solid State Electronic
 - [ ] Big Hunt (1976)
+## Skribbl Custom Words
+Big Hunt,Derby,Hot Race,Navajo,West Show

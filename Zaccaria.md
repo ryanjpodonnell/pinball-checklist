@@ -45,3 +45,5 @@
 - [ ] Wood's Queen (1P) (1976)
 - [ ] Wood's Queen (2P) (1976)
 - [ ] Wood's Queen (4P) (1976)
+## Skribbl Custom Words
+Aerobatics,Blackbelt,Circus,Clown,Combat,Devil Riders,Earth Wind Fire,Farfalla,Fire Mountain,Future World,Hot Wheels,House of Diamonds,Locomotion,Lucky Fruit,Magic Castle,Mexico 86,Moon Flight,Mystic Star,Nautilus,Pinball Champ,Pinball Champ '82,Pool Champion,Queen's Castle,Red Show,Robot,Shooting the Rapids,Ski Jump,Soccer Kings,Space City,Space Shuttle,Spooky,Star God,Star's Phoenix,Strike,Supersonic,Ten Stars,Time Machine,Universe,Winter Sports,Wood's Queen,Zankor
